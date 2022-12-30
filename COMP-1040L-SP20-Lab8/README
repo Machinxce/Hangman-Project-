@@ -1,0 +1,7 @@
+HANGMAN LAB 8
+//Precondition:current_word_family, new_key and word are all handles to valid
+// MY_STRING opaque objects. guess is an alphabetical character that can be either
+// upper or lower case.
+//Postcondition: Returns SUCCESS after replacing the string in new_key with the key
+// value formed by considering the current word family, the word and the guess.
+// Returns failure in the case of a resizing problem with the new_key string.
